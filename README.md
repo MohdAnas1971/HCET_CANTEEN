@@ -37,4 +37,4 @@ A modern Android canteen management app built with **Jetpack Compose**, **Kotlin
 
 ### 📦 Clone the repo
 ```bash
-git clone [https://github.com/your-username/HCET_CANTEEN.git](https://github.com/MohdAnas1971/HCET_CANTEEN.git)
+git clone https://github.com/MohdAnas1971/HCET_CANTEEN.git
