@@ -38,3 +38,39 @@ A modern Android canteen management app built with **Jetpack Compose**, **Kotlin
 ### 📦 Clone the repo
 ```bash
  https://github.com/MohdAnas1971/HCET_CANTEEN.git
+```
+
+
+🛠 Requirements
+Android Studio Flamingo or above
+
+Minimum SDK: 24+
+
+Kotlin 1.9+
+
+Gradle 8+
+
+▶️ Run the app
+Open the project in Android Studio.
+
+Let it sync Gradle.
+
+Run on an emulator or connected device.
+
+📄 License
+This project is licensed under the Apache 2.0 License.
+See the LICENSE file for details.
+
+👨‍💻 Author
+Mohammad Anas
+📍 Bangalore, India
+📧 anas.email@example.com
+LinkedIn | GitHub
+
+🙌 Contributions
+Pull requests and feature ideas are welcome!
+If you'd like to contribute, please fork the repo and submit a PR.
+
+
+
+
