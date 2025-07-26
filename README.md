@@ -1,4 +1,4 @@
-# HCET_CANTEEN 🍽️
+# HCET_CANTEEN 
 
 A modern Android canteen management app built with **Jetpack Compose**, **Kotlin**, and **Room Database**. HCET_CANTEEN provides a clean and responsive UI to **add**, **delete**, and **view detailed information** of canteen items.
 
